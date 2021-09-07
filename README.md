@@ -3,19 +3,24 @@
 
 <p><i> I'm Jatan Dudeja a 2nd year B.Tech. CSE student at Lovely Professional University. I'm a Tech Enthusiast and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 
+<img id = "img" src="https://user-images.githubusercontent.com/81140308/132361264-fb041b03-3c43-40fd-8bcb-160d2464e235.png" align="right" height=50% width=50%>
+
+
+
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Web Devlopment</code></li>
-<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>Python</code>, <code>Open Source</code>, <code>C++</code></li>, <code>JavaScript</code></li>
+<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>Python</code>, <code>Open Source</code>, <code>C++</code></li>, <code>JavaScript</code>, <code>CSS</code>, <code>jQuery</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="mailto:dudeja.jatan040@gmail.com">dudeja.jatan04@gmail.com</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>Him</code></li>
-<li> ⚡ Fun fact about me: I love painting and watching horror movies👻</li></ul>
+<li> ⚡ Fun fact about me: When I don't code I like to play BasketBall.</li></ul>
 
 ![Followers](https://img.shields.io/github/followers/JatanDudeja?style=plastic&color=white=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/JatanDudeja?affiliations=OWNER&style=social)
 <img src="https://komarev.com/ghpvc/?username=JatanDudeja" alt="JatanDudeja" /> 
 
 <h3>Languages and Tools</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="Python" width="70" height="60"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a><a href="https://www.canva.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/canva/canva-icon.svg" alt="Canva" width="40" height="40"/> </a><a href="https://www.w3schools.com/java/java_intro.asp" target="_blank"> <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" width="70" height="50"/> </a></p>
+
+<p align="left"><a href="https://www.w3schools.com/cpp/default.asp" target="_blank"> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" width="80" height="30"/> </a><a href="https://www.w3schools.com/python/" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="80" height="30"/> </a> <a href="https://www.w3schools.com/css/default.asp" target="_blank"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" width="80" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" width="80" height="30"/></a><a href="https://www.w3schools.com/html/default.asp" target="_blank"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" width="80" height="30"/> </a><a href="https://www.w3schools.com/js/default.asp" target="_blank"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" width="80" height="30"/> </a></p>
 
 <h3>Let's Connect</h3>
 
