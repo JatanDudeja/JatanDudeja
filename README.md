@@ -1,7 +1,7 @@
  # Hi there 🤗 
 
 
-<p><i> I'm Jatan Dudeja a 2nd year B.Tech. CSE student at Lovely Professional University. I'm a Tech Enthusiast and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
+<p><i> I'm Jatan Dudeja a 4th year B.Tech. CSE student at Lovely Professional University. I'm a Tech Enthusiast and an Open Source Contributer. I love to explore and learn about new domains.</i></p>
 
 <img id = "img" src="https://user-images.githubusercontent.com/81140308/132361264-fb041b03-3c43-40fd-8bcb-160d2464e235.png" align="right" height=50% width=50%>
 
