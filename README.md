@@ -9,7 +9,7 @@
 
 <ul>
 <li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Web Devlopment</code></li>
-<li> 💬 <b>Ask me about</b> : <code>HTML</code>, <code>Python</code>, <code>Open Source</code>, <code>C++</code></li>, <code>JavaScript</code>, <code>CSS</code>, <code>jQuery</code></li>
+<li> 💬 <b>Ask me about</b> : <code>NextJS</code>, <code>ReactJS</code>, <code>Typescript</code>, <code>NodeJS</code></li>, <code>MongoDB</code>, <code>MYSQL</code>, <code>ExpressJS</code></li>
 <li> 📫 <b>How to reach me</b> : <code><a href="mailto:dudeja.jatan040@gmail.com">dudeja.jatan04@gmail.com</a></code></li>
 <li> 😄 <b>Pronouns</b> : <code>He</code>/<code>Him</code></li>
 <li> ⚡ Fun fact about me: When I don't code I like to play BasketBall.</li></ul>
