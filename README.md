@@ -8,11 +8,11 @@
 
 
 <ul>
-<li> 🌱 <b>I’m currently learning</b> : <code>Data Structures</code>, <code>Web Devlopment</code></li>
-<li> 💬 <b>Ask me about</b> : <code>NextJS</code>, <code>ReactJS</code>, <code>Typescript</code>, <code>NodeJS</code></li>, <code>MongoDB</code>, <code>MYSQL</code>, <code>ExpressJS</code></li>
-<li> 📫 <b>How to reach me</b> : <code><a href="mailto:dudeja.jatan040@gmail.com">dudeja.jatan04@gmail.com</a></code></li>
-<li> 😄 <b>Pronouns</b> : <code>He</code>/<code>Him</code></li>
-<li> ⚡ Fun fact about me: When I don't code I like to play BasketBall.</li></ul>
+<li> 🌱 <b>I’m currently learning</b> : <br /><code>Data Structures</code>, <code>Web Devlopment</code></li>
+<li> 💬 <b>Ask me about</b> : <br /><code>NextJS</code>, <code>ReactJS</code>, <code>Typescript</code>, <code>NodeJS</code></li>, <code>MongoDB</code>, <code>MYSQL</code>, <code>ExpressJS</code></li>
+<li> 📫 <b>How to reach me</b> : <br /><code><a href="mailto:dudeja.jatan040@gmail.com">dudeja.jatan04@gmail.com</a></code></li>
+<li> 😄 <b>Pronouns</b> : <br /><code>He</code>/<code>Him</code></li>
+<li> ⚡ Fun fact about me: <br />When I don't code I like to play BasketBall.</li></ul>
 
 ![Followers](https://img.shields.io/github/followers/JatanDudeja?style=plastic&color=white=FOLLOWERS)
 ![Stars](https://img.shields.io/github/stars/JatanDudeja?affiliations=OWNER&style=social)
